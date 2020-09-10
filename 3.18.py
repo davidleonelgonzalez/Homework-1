@@ -1,3 +1,6 @@
+# David Gonzalez
+# 1630338
+
 import math
 
 height = int(input('Enter wall height (feet):\n'))
